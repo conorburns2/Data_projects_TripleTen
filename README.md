@@ -1,4 +1,4 @@
-# Project 1: Triple Peaks Library
+# Sprint 1: Advanced Spreadsheets
 
 This project analyzed Airbnb data across different NYC neighborhoods. We calculated the revenue for the most popular apartment sizes and neighborhoods. 
 ## Project features
