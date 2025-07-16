@@ -1,12 +1,11 @@
-# Data_projects_TripleTen
-TripleTen Tech Projects
+# Project 1: Triple Peaks Library
 
-Projects i worked on while attending the Data analysis TripleTen bootcamp. 
+The Triple Peaks Library webpage is the first project in the Software Engineering
+program at TripleTen. It was created using HTML and CSS, based on a design brief.
 
-1. Data Analysis
-2. SQL
-3. Business Analytics
-4. Tableau
-5. Storytelling with data
-6. Power BI
-   
+## Project features
+
+- Semantic HTML5
+- Flexbox
+- Positioning
+- Vertical stacking with z-index
