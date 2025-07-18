@@ -1,9 +1,9 @@
-Portfolio of completed projects I worked on while attending the PROGRAM NAME TripleTen Bootcamp.
+Portfolio of completed projects I worked on while attending the Business Intelligence Analytics TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 0 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 1 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 0 | [Fresh Beats](https://github.com/conorburns2/Data_projects_TripleTen/tree/main/fresh%20beats) | This was a Status report for a music streaming company using google docs. |
+| 1 | [](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 2 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 3 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 4 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
