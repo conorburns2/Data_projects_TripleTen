@@ -1,11 +1,21 @@
-# Sprint 1: Advanced Spreadsheets
+Portfolio of completed projects I worked on while attending the PROGRAM NAME TripleTen Bootcamp.
 
-This project analyzed Airbnb data across different NYC neighborhoods. We calculated the revenue for the most popular apartment sizes and neighborhoods. 
-## Project features
+| Project number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 0 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 1 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 2 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 3 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 4 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 5 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 6 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 7 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+<!--
+| 8 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 9 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 10| [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+-->
 
-- Pivot Tables
-- Advanced Formulas
-- Heat Map
-  
-Link to Project:
-https://docs.google.com/spreadsheets/d/1y7Oskxls4ijIkxygr41uNcBJ7DG3d55xMz7udFMt05I/edit?usp=sharing
+
+
+
