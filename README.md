@@ -6,7 +6,7 @@ Portfolio of completed projects I worked on while attending the Business Intelli
 | 1 | [NYC Airbnb Data](https://github.com/conorburns2/Data_projects_TripleTen/tree/main/NYC%20airbnb%20data) | I did a market analysis using google sheets to analyse NYC airbnb data. |
 | 2 | [Zuber Data](https://github.com/conorburns2/Data_projects_TripleTen/tree/main/Zuber%20Data) | I used SQL to analyze customer factors. |
 | 3 | [Ecommerce](https://github.com/conorburns2/Data_projects_TripleTen/tree/main/Eccomerce) |Startup funding and investment trend exploration via SQL.|
-| 4 | [PROJECT NAME](PROJECT DIRECTORY LINK) |Transaction log analytics in spreadsheets.|
+| 4 | [Superstore](https://github.com/conorburns2/Data_projects_TripleTen/tree/main/superstore) |Transaction log analytics in spreadsheets.|
 | 5 | [PROJECT NAME](PROJECT DIRECTORY LINK) |Profitability review and risk mitigation using Tableau|
 | 6 | [PROJECT NAME](PROJECT DIRECTORY LINK) |Deep dive into returns analysis and trend visualization|
 | 7 | [PROJECT NAME](PROJECT DIRECTORY LINK) |KPI analysis and platform performance monitoring via Tableau.|
