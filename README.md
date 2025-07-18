@@ -8,8 +8,8 @@ Portfolio of completed projects I worked on while attending the Business Intelli
 | 3 | [Ecommerce](https://github.com/conorburns2/Data_projects_TripleTen/tree/main/Eccomerce) |Startup funding and investment trend exploration via SQL.|
 | 4 | [Superstore](https://github.com/conorburns2/Data_projects_TripleTen/tree/main/superstore) |Transaction log analytics in spreadsheets.|
 | 5 | [Superstore Return Analysis](https://github.com/conorburns2/Data_projects_TripleTen/tree/main/superstore%20return%20analysis) |Profitability review and risk mitigation using Tableau|
-| 6 | [PROJECT NAME](PROJECT DIRECTORY LINK) |Deep dive into returns analysis and trend visualization|
-| 7 | [PROJECT NAME](PROJECT DIRECTORY LINK) |KPI analysis and platform performance monitoring via Tableau.|
+| 6 | [Shopify](https://github.com/conorburns2/Data_projects_TripleTen/tree/main/shopify) |Deep dive into returns analysis and trend visualization|
+| 7 | [Zomato](PROJECT DIRECTORY LINK) |KPI analysis and platform performance monitoring via Tableau.|
 <!--
 | 8 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 9 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
